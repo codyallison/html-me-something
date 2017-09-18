@@ -5,7 +5,6 @@ html{
     font-weight: bold;
     background: black;
     margin auto;
-    overflow:hidden;
 }
 body{
     margin: 0;
@@ -32,7 +31,6 @@ header{
 }
 #father h2{
     width: 100%;
-    align-self: left;
 }
 img{
     border: 1px solid black;
@@ -59,4 +57,5 @@ h2{
 footer{
     text-align: left;
     font-weight:lighter;
+    color: white;
 }
